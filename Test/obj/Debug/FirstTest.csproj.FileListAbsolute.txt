@@ -1,0 +1,11 @@
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\Test\bin\Debug\Test.dll
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\Test\bin\Debug\Test.pdb
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\Test\obj\Debug\FirstTest.csprojResolveAssemblyReference.cache
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\Test\obj\Debug\Test.dll
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\Test\obj\Debug\Test.pdb
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\Test\bin\Debug\WebDriver.dll
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\Test\bin\Debug\WebDriver.Support.dll
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\Test\bin\Debug\WebDriver.xml
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\Test\bin\Debug\WebDriver.Support.xml
+C:\Users\krzysztof.turowski\Documents\Visual Studio 2015\Projects\ClassLibrary1\Test\bin\Debug\nunit.framework.dll
+C:\Users\krzysztof.turowski\Documents\Visual Studio 2015\Projects\ClassLibrary1\Test\bin\Debug\nunit.framework.xml

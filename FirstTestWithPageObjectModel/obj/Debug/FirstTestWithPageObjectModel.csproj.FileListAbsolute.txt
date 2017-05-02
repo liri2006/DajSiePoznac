@@ -1,0 +1,11 @@
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\FirstTestWithPageObjectModel\obj\Debug\FirstTestWithPageObjectModel.csprojResolveAssemblyReference.cache
+C:\Users\krzysztof.turowski\Documents\Visual Studio 2015\Projects\ClassLibrary1\FirstTestWithPageObjectModel\bin\Debug\FirstTestWithPageObjectModel.dll
+C:\Users\krzysztof.turowski\Documents\Visual Studio 2015\Projects\ClassLibrary1\FirstTestWithPageObjectModel\bin\Debug\FirstTestWithPageObjectModel.pdb
+C:\Users\krzysztof.turowski\Documents\Visual Studio 2015\Projects\ClassLibrary1\FirstTestWithPageObjectModel\bin\Debug\nunit.framework.dll
+C:\Users\krzysztof.turowski\Documents\Visual Studio 2015\Projects\ClassLibrary1\FirstTestWithPageObjectModel\bin\Debug\WebDriver.dll
+C:\Users\krzysztof.turowski\Documents\Visual Studio 2015\Projects\ClassLibrary1\FirstTestWithPageObjectModel\bin\Debug\WebDriver.Support.dll
+C:\Users\krzysztof.turowski\Documents\Visual Studio 2015\Projects\ClassLibrary1\FirstTestWithPageObjectModel\bin\Debug\nunit.framework.xml
+C:\Users\krzysztof.turowski\Documents\Visual Studio 2015\Projects\ClassLibrary1\FirstTestWithPageObjectModel\bin\Debug\WebDriver.xml
+C:\Users\krzysztof.turowski\Documents\Visual Studio 2015\Projects\ClassLibrary1\FirstTestWithPageObjectModel\bin\Debug\WebDriver.Support.xml
+C:\Users\krzysztof.turowski\Documents\Visual Studio 2015\Projects\ClassLibrary1\FirstTestWithPageObjectModel\obj\Debug\FirstTestWithPageObjectModel.dll
+C:\Users\krzysztof.turowski\Documents\Visual Studio 2015\Projects\ClassLibrary1\FirstTestWithPageObjectModel\obj\Debug\FirstTestWithPageObjectModel.pdb

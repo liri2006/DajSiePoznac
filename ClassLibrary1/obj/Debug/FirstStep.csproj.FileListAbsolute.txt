@@ -1,0 +1,14 @@
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\Automation.exe
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\Automation.pdb
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\WebDriver.dll
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\WebDriver.Support.dll
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.xml
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\WebDriver.xml
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\WebDriver.Support.xml
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\Automation.exe
+C:\Users\krzysztof.turowski\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\Automation.pdb
