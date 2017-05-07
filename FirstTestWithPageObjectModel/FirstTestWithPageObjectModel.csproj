@@ -55,6 +55,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Common\BasePage.cs" />
+    <Compile Include="Common\DriverExtensions.cs" />
     <Compile Include="DajSiePoznacPage.cs" />
     <Compile Include="DajSiePoznacTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

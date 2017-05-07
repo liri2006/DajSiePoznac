@@ -1,43 +1,32 @@
-﻿using OpenQA.Selenium;
+﻿using FirstTestWithPageObjectModel.Common;
+using OpenQA.Selenium;
 using OpenQA.Selenium.Support.PageObjects;
 
 namespace FirstTestWithPageObjectModel
 {
-    public class DajSiePoznacPage
+    public class DajSiePoznacPage : BasePage
     {
-        private readonly IWebDriver _driver;
-        private const string PageUri = @"http://devstyle.pl";
+        [FindsBy(How = How.Name, Using = "s")]
+        private IWebElement searchText;
 
-        [FindsBy(How = How.Name, Using = "s")] private IWebElement _searchText;
-        [FindsBy(How = How.ClassName, Using = "search-button")] private IWebElement _searchButton;
+        [FindsBy(How = How.ClassName, Using = "search-button")]
+        private IWebElement searchButton;
 
-        public DajSiePoznacPage(IWebDriver driver)
+        public DajSiePoznacPage(IWebDriver driver) : base(driver)
         {
-            _driver = driver;
-            PageFactory.InitElements(_driver,this);
-        }
-
-        public static DajSiePoznacPage NavigateTo(IWebDriver driver)
-        {
-            driver.Navigate().GoToUrl(PageUri);
-
-            return new DajSiePoznacPage(driver);
+            PageUrl = @"http://devstyle.pl";
         }
 
         public string SearchText
         {
-            set
-            {
-                _searchText.SendKeys(value);
-            }
+            set { searchText.SendKeys(value); }
         }
 
         public SearchResultsPage SearchForText()
         {
-            _searchButton.Click();
+            searchButton.Click();
 
-            return new SearchResultsPage(_driver);
+            return new SearchResultsPage(Driver);
         }
-
     }
 }

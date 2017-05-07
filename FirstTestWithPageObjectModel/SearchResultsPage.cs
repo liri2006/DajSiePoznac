@@ -1,22 +1,18 @@
-﻿using OpenQA.Selenium;
+﻿using FirstTestWithPageObjectModel.Common;
+using OpenQA.Selenium;
 using OpenQA.Selenium.Support.PageObjects;
 
 namespace FirstTestWithPageObjectModel
 {
-    public class SearchResultsPage
+    public class SearchResultsPage: BasePage
     {
-        private readonly IWebDriver _driver;
-
         [FindsBy(How = How.CssSelector, Using = ".main-heading")]
-        private IWebElement _mainHeading;
+        private IWebElement mainHeading;
 
-        public SearchResultsPage(IWebDriver driver)
+        public string MainHeading => mainHeading.Text;
+
+        public SearchResultsPage(IWebDriver driver) : base(driver)
         {
-            _driver = driver; 
-
-            PageFactory.InitElements(_driver, this);
         }
-
-        public string MainHeading => _mainHeading.Text;
     }
 }
